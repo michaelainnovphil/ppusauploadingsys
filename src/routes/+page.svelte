@@ -18,16 +18,11 @@
 </script>
 
 <main class="relative flex min-h-screen flex-col items-center justify-center">
-  <a
-    href="https://vercel.com/templates/next.js/blob-sveltekit"
-    class="group mt-20 sm:mt-0 rounded-full flex space-x-1 bg-white/30 shadow-sm ring-1 ring-gray-900/5 text-gray-600 text-sm font-medium px-10 py-2 hover:shadow-lg active:shadow-sm transition-all"
-  >
-    Deploy your own to Vercel
-  </a>
+  
   <h1
     class="pt-4 pb-8 bg-gradient-to-br from-black via-[#171717] to-[#575757] bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
   >
-    Blob on Vercel
+    PPUSA
   </h1>
   <div
     class="flex flex-col items-center w-full max-w-xl p-12 mx-auto rounded-lg shadow-xl dark:bg-white/10 bg-white/30 ring-1 ring-gray-900/5 backdrop-blur-lg"
@@ -48,7 +43,7 @@
         <div class="space-y-1 mb-4">
           <h2 class="text-xl font-semibold">Upload a file</h2>
           <p class="text-sm text-gray-500">
-            Accepted formats: .png, .jpg, .gif, .mp4
+            Accepted formats: .png, .jpg, .gif, .mp4, .pdf
           </p>
         </div>
         <label
@@ -130,33 +125,7 @@
   <div
     class="flex justify-center gap-1 font-light text-gray-600 w-full max-w-lg text-center mt-6"
   >
-    <a
-      href="https://vercel.com/blob"
-      class="font-medium underline underline-offset-4 hover:text-black transition-colors"
-    >
-      Vercel Blob
-    </a>{' '}
-    demo.
-    <span>Built with</span>
-    <a
-      href="https://kit.svelte.dev/"
-      class="flex items-center font-medium underline underline-offset-4 hover:text-black transition-colors"
-    >
-      <img src="svelte_logo.png" alt="svelte logo" class="h-6 mx-1" />
-      <p>SvelteKit</p>
-    </a>
+    
     .
-  </div>
-  <div class="sm:absolute sm:bottom-0 w-full px-20 py-10 flex justify-between">
-    <a href="https://vercel.com">
-      <img src="/vercel.svg" alt="Vercel Logo" width={100} height={24} />
-    </a>
-    <a
-      href="https://github.com/vercel/examples/tree/main/storage/blob-sveltekit"
-      class="flex items-center space-x-2"
-    >
-      <img src="/github.svg" alt="GitHub Logo" width={24} height={24} />
-      <p class="font-light">Source</p>
-    </a>
-  </div>
+  
 </main>
